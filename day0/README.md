@@ -25,7 +25,6 @@
    - vectorized function parameters
    - defn vs define
    - varargs & vs .
-   - loop/recur -> not covered
 
 ##set up environment
 
